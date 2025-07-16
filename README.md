@@ -70,6 +70,14 @@ export default function MyPage() {
 }
 ```
 
+### Project Stack
+- Typescript
+- NextJs
+- Tailwind
+- Shadcn (shandcn-ui is deprecated)
+
+---
+
 ---
 
 ### 5. 🎨 Installing shadcn/ui Components (if needed)
